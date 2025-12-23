@@ -1,10 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:1e90ff,100:00bfff&text=Hi,%20I'm%20Abdul&fontColor=ffffff&desc=Python%20•%20Cloud%20•%20Automation%20•%20AI%20•%20Problem%20Solving&descAlign=50&fontAlign=50&fontAlignY=45" width="100%" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:1e90ff,100:00bfff&text=Hi,%20I'm%20Abdul&fontColor=ffffff&desc=Python%20•%20Automation%20•%20AI%20•%20Problem%20Solving&descAlign=50&fontAlign=50&fontAlignY=45" width="100%" alt="header"/>
 </p>
-<div align="center">
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amajai&theme=transparent&ring=00bfff&fire=00bfff&currStreakLabel=00bfff" alt="GitHub Streak" height="200px"/>
-</div>
 
 ---
 
@@ -13,7 +9,7 @@
 <div align="center">
 
 <p align="center" style="color:white; font-size:16px; max-width:600px;">
-💡 Passionate about <b>automation</b>, <b>cloud</b>, <b>AI</b>, and <b>problem solving</b><br><br>
+💡 Passionate about <b>automation</b>, <b>AI</b>, and <b>problem solving</b><br><br>
 💻 I love building practical AI-powered solutions that solve real-world problems.<br><br>
 ✨ Always exploring new ways to bring ideas to life through Python.<br><br>
 </p>
@@ -89,6 +85,10 @@
     <img alt="Top Languages" src="https://github-readme-stats-six-seven.vercel.app/api/top-langs/?username=amajai&layout=compact&langs_count=8&theme=default" height="200px">
   </picture>
 
+</div>
+<div align="center">
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amajai&theme=transparent&ring=00bfff&fire=00bfff&currStreakLabel=00bfff" alt="GitHub Streak" height="200px"/>
 </div>
 
 
